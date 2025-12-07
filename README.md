@@ -84,7 +84,7 @@ Remaining WiFi Profiles:
 ---
 
 ## 📖 Notes
-- Profile names with spaces or special characters are fully supported (e.g., `"Karthika's iPhone"`).
+- Profile names with spaces or special characters are fully supported (e.g., `"Test's iPhone"`).
 - Always run the script with administrator permissions.
 - The script uses PowerShell internally for better handling of special characters.
 - No external dependencies required.
