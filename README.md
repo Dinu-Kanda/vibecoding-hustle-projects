@@ -96,11 +96,6 @@ Pull requests are welcome! If you'd like to improve error handling, add logging,
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License — free to use, modify, and distribute.
-
----
-
 ## 💡 Inspiration
 This project was built as part of my **vibecoding small projects** initiative — creating lightweight tools that solve everyday problems and sharing them with the community.
 
