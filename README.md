@@ -111,8 +111,3 @@ This project was built as part of my **vibecoding small projects** initiative â€
 
 **Issue:** No profiles listed  
 **Solution:** Check if you have any saved WiFi profiles with: `netsh wlan show profiles`
-
----
-
-## ðŸ“ž Support
-If you encounter any issues or have suggestions, please open an issue on GitHub.
